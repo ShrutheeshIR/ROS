@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/olorin/Desktop/ROS/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/olorin/Desktop/ROS/ros_workspace/install -G Unix Makefiles
